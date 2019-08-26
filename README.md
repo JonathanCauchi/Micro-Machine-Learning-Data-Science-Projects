@@ -8,4 +8,4 @@ This repo will include projects specifically about:
 - Decision Trees and Random Forests
 - KMeans
 
-On this Repo, I will try to do more visualization and data cleaning
+On this Repo, I will try to do more visualization and data cleaning. The goal after this repo is to be able to tackle a complete data analysis project from start to finish (all phases: processing, storing, visualization, analysis and modelling). Wish me luck
