@@ -1,3 +1,10 @@
 # Further-Machine-Learning-Projects
-Continuation of ML Intro Repo, involves more data visualization and added complexity to model building
+This repo will include projects specifically about:
+- Data Cleaning
+- Web Crawling w/ Beautiful Soup
+- Reinforcement Learning
+- Recommender Systems
+- Gradient Descent w/ Logistic Regression
+- Decision Trees and Random Forests
 
+On this Repo, I will try to do more visualization and data cleaning
