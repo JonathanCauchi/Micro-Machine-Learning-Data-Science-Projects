@@ -1,5 +1,5 @@
 # Further-Machine-Learning-Projects
-This repo will include projects specifically about:
+This repo will include projects about, to name a few:
 - Data Cleaning
 - Web Crawling w/ Beautiful Soup
 - Reinforcement Learning
