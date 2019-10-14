@@ -1,7 +1,6 @@
 # Further-Machine-Learning-Projects
 This repo will include projects about, to name a few:
 - Data Cleaning
-- Web Crawling w/ Beautiful Soup
 - Natural Language Processing
 - Reinforcement Learning
 - Gradient Descent w/ Logistic Regression
