@@ -10,5 +10,4 @@ This repo will include projects about, to name a few:
 - Time Series Data Analysis
 
 
-Kaggle Profile: https://www.kaggle.com/jonathancauchi/datasets
 
