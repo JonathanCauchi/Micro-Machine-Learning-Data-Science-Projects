@@ -8,6 +8,7 @@ This repo will include projects about, to name a few:
 - Clustering Implementations
 - Boosting Algorithms
 - Time Series Data Analysis
+- Recommender systems w/ NLP
 
 
 
