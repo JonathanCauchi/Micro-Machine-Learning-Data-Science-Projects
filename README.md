@@ -1,7 +1,7 @@
-# Further-Machine-Learning-Projects
+# Projects:
 This repo will include projects about, to name a few:
 - Data Cleaning
-- Data Collection w/ BeautifulSoup
+- Data Collection w/ BeautifulSoup (Scheduling w/ CronJob)
 - Natural Language Processing
 - Gradient Descent w/ Logistic Regression
 - Decision Trees and Random Forests
