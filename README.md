@@ -1,6 +1,6 @@
 # Projects:
 This repo will include projects about, to name a few:
-- Data Cleaning
+- Data Cleaning & Processing
 - Data Collection w/ BeautifulSoup (Scheduling w/ CronJob)
 - Natural Language Processing
 - Gradient Descent w/ Logistic Regression
