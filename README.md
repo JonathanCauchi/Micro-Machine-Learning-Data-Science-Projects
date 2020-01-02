@@ -6,8 +6,6 @@ This repo will include projects about, to name a few:
 - Gradient Descent w/ Logistic Regression
 - Decision Trees and Random Forests
 - Clustering Implementations
-- Boosting Algorithms
-- Recommender systems w/ NLP
 
 
 
