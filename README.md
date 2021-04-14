@@ -1,11 +1,4 @@
 # Projects:
-This repo will include projects about, to name a few:
-- Data Cleaning & Processing
-- Data Collection w/ BeautifulSoup
-- Natural Language Processing
-- Gradient Descent w/ Logistic Regression
-- Decision Trees and Random Forests
-- Clustering Implementations
-
+This repo will include reference python notebooks about the different steps in a typical Data Science project. 
 
 
